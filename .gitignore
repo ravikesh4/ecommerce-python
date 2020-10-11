@@ -1,0 +1,12 @@
+*.pyc
+settings.py
+**/migrations/
+*.db
+*__pycache__
+*.sqlite3
+media/
+XDG*
+*.log
+.idea/
+static/
+
